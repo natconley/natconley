@@ -22,7 +22,7 @@ I think about what and why just as much as how.
 
 ## Featured projects
 
-Check out my [portfolio](httpps://natconley.github.io/portfolio) for a full project overview.
+Check out my [portfolio](https://natconley.github.io/portfolio) for a full project overview.
 
 ## Find me
 
